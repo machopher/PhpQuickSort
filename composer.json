@@ -12,6 +12,11 @@
             "Machopher\\PhpQuickSort\\": "src/"
         }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.0.1.x-dev"
+        }
+    },
     "authors": [
         {
             "name": "wml-machopher"
