@@ -66,6 +66,7 @@ class MLQuickSort
 
 //return (new QuickSort)->minToMax(['id' => 1,'order' => 1],['id' => 1,'order' => 3],$arr);
 //结果 :
+
 //['id' => 1,'order' => 3]
 //['id' => 2,'order' => 1]
 //['id' => 3,'order' => 2]
