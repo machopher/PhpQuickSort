@@ -1,0 +1,19 @@
+{
+    "name": "machopher/php-quick-sort",
+    "description": "this is php quick sort package",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Machopher\\PhpQuickSort\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wml-machopher"
+        }
+    ]
+}
